@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 public class ContoBancario {
 
     private String nomeConto;
-    private int bilancio;
+    protected int bilancio;
 
     public ContoBancario(String nomeConto) {
 

@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  * @author maiella.stefano
  */
 public class ContoEsteso extends ContoBancario{
-    private int bilancio;
+//    private int bilancio;
     private int fido;
 
 //    public ContoEsteso(int fido) {
@@ -64,6 +64,8 @@ public class ContoEsteso extends ContoBancario{
                 int insieme = bilancio + fido;
                 insieme = insieme - denaro;
                 System.out.println("hai prelevato " + denaro + " euro anche dal fido, perche avevi solo "+ bilancio);
+            }else{
+                System.out.println("Sei povero anche per me");
             }
         }
 
