@@ -1,8 +1,8 @@
- Ho caricato il progetto quasi completato_
+Ho caricaricato il progetto completo di tutte le caratteristiche richieste dall'esercizio_
 
 Questo è l' esercizio sul conto bancario, fatto in laboratorio, con l'aiuto dei professori_
-Il codice permette di creare il conto bancario che possiede un codice alfanumerico che ne indica il nome e il quantitativo di denaro presente in esso_
-Nel codice e presente la possibilità di avere anche un prestito dal fido in caso il proprio bilancio non riesca a soddisfare la richiesta di prelievo_
+In questo progetto vi è la possibilità di chreare un conto bancario che possiede il nome, che non è altro che una sequenza alfanumerica indicativa, e il bilancio, ovvero la quantità di denaro che si possiede_
+Vi è anche la possibilità di prelevare dal proprio conto tramite un fido_
 
 
 
